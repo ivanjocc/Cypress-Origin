@@ -1,0 +1,26 @@
+{
+  "projectId": "u1u5ja",
+  "name": "bavariatest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cypress open",
+    "cypress": "cypress"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.4.1",
+    "moment": "^2.29.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinBavariatest/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PinBavariatest/test/issues"
+  },
+  "homepage": "https://github.com/PinBavariatest/test#readme",
+  "description": ""
+}
